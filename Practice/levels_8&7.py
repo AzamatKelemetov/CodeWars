@@ -1,3 +1,24 @@
+#Kata Stop gninnipS My sdroW!
+# def spin_words(sentence):
+#     words = sentence.split()
+#     word = ''
+#     new_sentence = ''
+#
+#     for i in range(len(words)):
+#         if len(words[i]) >= 5:
+#             word = words[i]
+#             new_sentence += word[::-1]
+#         elif len(words[i]) < 5:
+#             word = words[i]
+#             new_sentence += word
+#
+#         if not i == len(words)-1:
+#             new_sentence += ' '
+#         else:
+#             break
+#     return new_sentence
+
+
 # Kata "count sheeps"
 #4.1  solution with for
 # def count_sheeps(sheep):
